@@ -1,0 +1,36 @@
+.griffBox {
+    border-radius: 10px;
+    border-style: solid;
+    background-color: whitesmoke
+}
+
+.simmonsBox {
+    border-radius: 10px;
+    border-style: solid;
+    background-color: whitesmoke;
+}
+
+h2 {
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(255,252,252,1) 0%, rgba(255,0,9,1) 50%, rgba(0,1,255,1) 100%);
+    font-size: 3em;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    
+}
+
+p {
+    
+    font-family: cursive;
+    text-align: center;
+    font-size: 2.5em;
+    color: white;
+}
+
+body {
+    background-color: floralwhite;
+    background-image: url(RvB_Images/rooster-teeth-logo.png);
+    background-position: top;
+    background-repeat: no-repeat;
+}
